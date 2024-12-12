@@ -1,1 +1,1 @@
-# snp-cns-school_hands-on
+# niigata_lecture_2024
